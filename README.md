@@ -234,5 +234,5 @@ Full training (50 epochs with class weights) will improve minority-class recall.
 
 - PySpark 4.1.2 is installed via pip (bundles Spark 4.1.2)
 - `SPARK_HOME` must point to `site-packages/pyspark/` (handled automatically in `etl_pipeline.py`)
-- Hadoop native libraries for Windows are placed in `D:\spark-3.5.8-bin-hadoop3\bin\`
+- Hadoop native libraries for Windows are placed in `...\spark-3.5.8-bin-hadoop3\bin\`
 "# WildFire_project" 
