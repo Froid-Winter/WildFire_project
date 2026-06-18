@@ -2,3 +2,5 @@
 "logs/" 
 "processed_data/" 
 ".ipynb_checkpoints/" 
+"archive/" 
+"saved_model/" 
