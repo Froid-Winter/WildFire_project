@@ -1,6 +1,5 @@
-"__pycache__/" 
-"logs/" 
-"processed_data/" 
-".ipynb_checkpoints/" 
-"archive/" 
-"saved_model/" 
+saved_model/
+__pycache__/
+processed_data/
+archive/
+logs/
